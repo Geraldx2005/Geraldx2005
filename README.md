@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gerald!
+# Hi, I'm Gerald!
 
 🎯 **Aspiring Full Stack Web Developer** | 🚀 3rd Year Computer Science Engineering Student  
 
