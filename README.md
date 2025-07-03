@@ -22,6 +22,7 @@
 
 ### My Projects
 - Student Database Management System (MERN Stack)
+- Airbnb clone (MERN Stack)
 - Personal Portfolio Website
 - More Projects Coming Soon...
 
