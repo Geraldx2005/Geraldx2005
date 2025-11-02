@@ -5,10 +5,10 @@
 ---
 
 ### **My Tech Stack**
-- Frontend: HTML, CSS, JavaScript, React.js
-- Backend: Node.js, Express.js, Next.js
-- Database: MongoDB, MySQL
-- Graphic Design: Photoshop, Illustrator, Indesign, Adobe XD
+- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Backend:** Node.js, Express.js, Next.js
+- **Database:** MongoDB, MySQL
+- **Graphic Design:** Photoshop, Illustrator, Indesign, Adobe XD
 
 ---
 
