@@ -1,6 +1,6 @@
 # Hi, I'm Gerald!
 
- **Aspiring Full Stack Web Developer** | Final Year Computer Science Engineering Student
+ **Aspiring Full Stack Web Developer** | Final Year CS Student
 
 ---
 
