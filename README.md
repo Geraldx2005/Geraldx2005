@@ -1,20 +1,19 @@
 # Hi, I'm Gerald!
 
- **Aspiring Full Stack Web Developer** | 3rd Year Computer Science Engineering Student
+ **Aspiring Full Stack Web Developer** | Final Year Computer Science Engineering Student
 
 ---
 
 ### **My Tech Stack**
-- Frontend: HTML, CSS, JavaScript
-- Backend: Node.js, Express.js
-- Database: MongoDB
-- REST APIs
+- Frontend: HTML, CSS, JavaScript, React.js
+- Backend: Node.js, Express.js, Next.js
+- Database: MongoDB, MySQL
 - Graphic Design: Photoshop, Illustrator, Indesign, Adobe XD
 
 ---
 
 ### Currently Learning
-- React.js
+- TypeScript, Docker, UNIX Commands
 - Improving Logical Thinking
 - Building Real-World Projects
 
