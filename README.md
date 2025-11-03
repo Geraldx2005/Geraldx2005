@@ -6,14 +6,14 @@
 
 ### **My Tech Stack**
 - **Frontend:** HTML, CSS, JavaScript, React.js
-- **Backend:** Node.js, Express.js, Next.js
+- **Backend:** Node.js, Express.js
 - **Database:** MongoDB, MySQL
 - **Graphic Design:** Photoshop, Illustrator, Indesign, Adobe XD
 
 ---
 
 ### Currently Learning
-- TypeScript, Docker, UNIX Commands
+- TypeScript, Next.js, Docker, UNIX Commands
 - Improving Logical Thinking
 - Building Real-World Projects
 
